@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PrimeProtect.iml" filepath="$PROJECT_DIR$/PrimeProtect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpongeForge/SpongeCommon/SpongeAPI/SpongeAPI.iml" filepath="$PROJECT_DIR$/../SpongeForge/SpongeCommon/SpongeAPI/SpongeAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpongeForge/SpongeCommon/SpongeCommon.iml" filepath="$PROJECT_DIR$/../SpongeForge/SpongeCommon/SpongeCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpongeForge/SpongeForge.iml" filepath="$PROJECT_DIR$/../SpongeForge/SpongeForge.iml" />
+    </modules>
+  </component>
+</project>
