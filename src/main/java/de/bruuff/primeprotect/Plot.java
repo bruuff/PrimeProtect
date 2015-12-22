@@ -323,8 +323,6 @@ public class Plot {
     }
 
     private void update(){
-        System.out.println("updating");
-
         //Updating Centroid
         if(vertices.size() >= 2){
             centroid = calcCentroid();
